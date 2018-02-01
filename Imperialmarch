@@ -1,0 +1,45 @@
+#Name of the song: imperial March
+#sheet music: https://www.musicnotes.com/sheetmusic/mtd.asp?ppn=MN0017607
+#Bpm used: https://songbpm.com/imperial-march?q=imperial%20march
+use_synth:piano
+use_bpm 95
+play :g4
+sleep 1
+play :g4
+sleep 1
+play :g4
+sleep 1
+play :e4
+sleep 0.75
+play :b4
+sleep 0.375
+play :g4
+sleep 1
+play :e4
+sleep 0.75
+play :b4
+sleep 0.25
+play :g4
+sleep 2
+play :d5
+sleep 1
+play :d5
+sleep 1
+play :d5
+sleep 1
+play :e5
+sleep 0.75
+play :b4
+sleep 0.25
+play :g4
+sleep 1
+play :e4
+sleep 0.75
+play :b4
+sleep 0.375
+play :g4
+sleep 1
+play :g5
+sleep 1
+play :g4
+sleep 0.75
